@@ -21,7 +21,6 @@ const HomePage: NextPageWithLayout = () => {
     <Wrapper>
       <Head />
       <Image src="/thatcher.png" width={1000} height={384} draggable="false" />
-      <h1></h1>
     </Wrapper>
   );
 };
