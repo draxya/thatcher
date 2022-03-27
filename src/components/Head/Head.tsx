@@ -39,11 +39,11 @@ export const Head = ({
 Head.defaultProps = {
   author: 'draxya',
   description:
-    'Thatcher Technologies Official Website',
+  'Thatcher Technologies Official Website',
   keywords:
-    'thatcher, technology, website, thatcher technologies',
+  'thatcher, technology, website, thatcher technologies',
   ogDescription:
-    'Thatcher Technologies Official Website',
+  'Thatcher Technologies Official Website',
   ogImage: 'https://thatcher.vercel.app/thatcher.png',
   ogTitle: '⚡️Thatcher Tech: Ready to production.',
   ogUrl: 'https://thatchertech.me/',
