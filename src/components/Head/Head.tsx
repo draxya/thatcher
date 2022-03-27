@@ -31,20 +31,21 @@ export const Head = ({
     <meta property="og:type" content="website" />
     <meta property="og:url" content={ogUrl} />
     <meta property="og:image" content={ogImage} />
+    <meta protperty="theme-color" content="0096FF" />
     <meta name="robots" content="follow, index" />
   </NextHead>
 );
 
 Head.defaultProps = {
-  author: 'YOUR_NAME',
-  description:
-    'A highly opinionated and complete starter for Next.js projects ready to production. Includes Typescript, Styled Components, Prettier, ESLint, Husky, SEO, and more.',
+  author: 'draxya',
+  description:  
+    'Thatcher Technologies Official Website',
   keywords:
-    'next, starter, typescript, styled components, prettier, eslint, husky, seo',
+    'thatcher, technology, website, thatcher technologies',
   ogDescription:
-    'A highly opinionated and complete starter for Next.js projects ready to production. Includes Typescript, Styled Components, Prettier, ESLint, Husky, SEO, and more.',
-  ogImage: 'https://next-starter-ebon.vercel.app/images/og.png',
-  ogTitle: 'Next Starter ⚡️: Ready to production',
-  ogUrl: 'https://next-starter-ebon.vercel.app/',
-  title: 'Next Starter',
+    'Thatcher Technologies Official Website',
+  ogImage: 'https://thatcher.vercel.app/thatcher.png',
+  ogTitle: '⚡️Thatcher Tech: Ready to production.',
+  ogUrl: 'https://thatchertech.me/',
+  title: 'Thatcher Technologies',
 };
