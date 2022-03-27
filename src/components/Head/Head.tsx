@@ -38,7 +38,7 @@ export const Head = ({
 
 Head.defaultProps = {
   author: 'draxya',
-  description:  
+  description:
     'Thatcher Technologies Official Website',
   keywords:
     'thatcher, technology, website, thatcher technologies',
